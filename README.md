@@ -8,6 +8,9 @@
     <td align="center">
       <img alt="php" src="https://skillicons.dev/icons?i=php" ><br/>PHP
     </td>
+    <td align="center">
+      <img alt="php" src="https://skillicons.dev/icons?i=javascript" ><br/>Javascript
+    </td>
   </tr>
 </table>
 
