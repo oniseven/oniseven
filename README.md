@@ -9,7 +9,7 @@
       <img alt="php" src="https://skillicons.dev/icons?i=php" ><br/>PHP
     </td>
     <td align="center">
-      <img alt="javascript" src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" ><br/>Javascript
+      <img alt="javascript" src="https://skillicons.dev/icons?i=javascript" ><br/>Javascript
     </td>
     <td align="center">
       <img alt="html" src="https://skillicons.dev/icons?i=html" ><br/>HTML
