@@ -1,10 +1,12 @@
 ## Hi there, Oni here 👋
 
-> Welcome to my github page.
->
-> I am a software engineer base in Indonesia 🇮🇩.
->
-> When I'm not in front of monitor, I usually go hanging out, traveling sometimes, and gaming (oh wait this is also in front of monitor hm...).
+```
+Welcome to my github page.
+
+I am a software engineer base in Indonesia 🇮🇩.
+
+When I'm not in front of monitor, I usually go hanging out, traveling sometimes, and gaming (oh wait this is also in front of monitor hm...).
+```
 
 ## My Tools and Technologies
 
