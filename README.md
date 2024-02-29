@@ -1,5 +1,5 @@
 ### Hi there, Oni here 👋
-#### 🇮🇩  Fullstack Developer
+#### 🇮🇩  Software Engineer
 
 🛠️ **Tech Stack**
 
