@@ -1,5 +1,9 @@
 ## Hi there, Oni here 👋
-### 🇮🇩   Software Engineer
+
+> Welcome to my github page.
+> I am a software engineer base on Indonesia
+>
+> When I'm not at the keyboard, I usually go hanging out, traveling sometimes, and learning language (like a legit language, currently learing Japaness)
 
 ## My Tools and Technologies
 
