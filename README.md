@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align="center">
-      ![PHP](https://skillicons.dev/icons?i=php)<br>PHP
+      <img alt="php" src="https://skillicons.dev/icons?i=php" ><br/>PHP
     </td>
   </tr>
 </table>
