@@ -1,7 +1,7 @@
 ### Hi there, Oni here 👋
 ### 🇮🇩   Software Engineer
 
-## My Languange and Technologies
+## My Tools and Technologies
 
 <table>
   <tr>
@@ -9,7 +9,19 @@
       <img alt="php" src="https://skillicons.dev/icons?i=php" ><br/>PHP
     </td>
     <td align="center">
-      <img alt="php" src="https://skillicons.dev/icons?i=javascript" ><br/>Javascript
+      <img alt="javascript" src="https://skillicons.dev/icons?i=javascript" ><br/>Javascript
+    </td>
+    <td align="center">
+      <img alt="html" src="https://skillicons.dev/icons?i=html" ><br/>HTML
+    </td>
+    <td align="center">
+      <img alt="css" src="https://skillicons.dev/icons?i=css" ><br/>CSS
+    </td>
+    <td align="center">
+      <img alt="mysql" src="https://skillicons.dev/icons?i=mysql" ><br/>MySQL
+    </td>
+    <td align="center">
+      <img alt="postgresql" src="https://skillicons.dev/icons?i=postgres" ><br/>PostgreSQL
     </td>
   </tr>
 </table>
