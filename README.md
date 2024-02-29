@@ -16,9 +16,8 @@
 [![React JS](https://camo.githubusercontent.com/c244a8c4d3d42483e6b29601edeff66f667a345244fff7b07158f830dbee8b18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616374204a532d3238324333343f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)](https://react.dev/)
 [![Go Lang](https://camo.githubusercontent.com/b755408c7065e740af8fa8b3e1d6b45447f87b4c64c4f738e239bb84f6c82d60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474f6c616e672d3238324333343f6c6f676f3d676f266c6f676f436f6c6f723d363144414642)](https://go.dev/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oniseven&theme=dark)](https://git.io/streak-stats)
-
 <!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oniseven&theme=dark)](https://git.io/streak-stats)
 **oniseven/oniseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
