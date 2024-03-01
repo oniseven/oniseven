@@ -1,13 +1,11 @@
 ## Hi there, Oni here 👋
 
-```
-Welcome to my github page.
-
-I am a software engineer base in Indonesia 🇮🇩
-
-Well just like other human being, I do hanging out, traveling sometimes,
-do some stupid things and gaming too.
-```
+> [!NOTE]
+> Welcome to my github page.
+>
+> I am a software engineer base in Indonesia 🇮🇩
+>
+> Well just like other human being, I do hanging out, traveling sometimes, do some stupid things and gaming too.
 
 ## My Tools and Technologies
 
