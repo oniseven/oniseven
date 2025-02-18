@@ -45,7 +45,7 @@ do some stupid things and gaming too.
 <table>
   <tr>
     <td align="center">
-      <img alt="reactjs" src="https://skillicons.dev/icons?i=react" ><br/>ReactJs
+      <img alt="reactjs" src="https://skillicons.dev/icons?i=typescript" ><br/>Typescript
     </td>
     <td align="center">
       <img alt="golang" src="https://skillicons.dev/icons?i=go" ><br/>Go Lang
